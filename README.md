@@ -6,7 +6,7 @@ It was designed to reflect the performance of a school district using a variety 
 The district summary has not been affected by the change in grades for ninth-grade Thomas High School Students. 
 2. How is the school summary affected? 
 The school summary only changed for Thomas High School students in the affected areas for the scores. 
-3. How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to other schools. 
+3. How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to other schools? 
 It makes Thomas High School's percentages and scores better compared to the other schools. 
 4. How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade
